@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Afrochella](https://skabeo.github.io/Capstone-Project-Conference-Page/)
+- [Afrochella](https://skabeo.github.io/Afrochella-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,7 +71,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/skabeo/Capstone-Project-Conference-Page.git
+git clone https://github.com/skabeo/Afrochella-Project.git
 
 ### Install
 
@@ -124,7 +124,7 @@ Github Pages
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/skabeo/Capstone-Project-Conference-Page/issues).
+Feel free to check the [issues page](https://github.com/skabeo/Afrochella-Project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,7 +148,7 @@ I would like to thank Cindy Shin in Behance, the designer of the web page templa
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/skabeo/Capstone-Project-Conference-Page/blob/master/MIT.md) licensed.
+This project is [MIT](https://github.com/skabeo/Afrochella-Project/blob/master/MIT.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
