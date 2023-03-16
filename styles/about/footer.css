@@ -1,0 +1,91 @@
+.partner-sec {
+  background-color: #272a31;
+  margin-top: 50px;
+}
+
+.part-holder {
+  padding: 40px 0;
+}
+
+.part-text {
+  color: #fff;
+  font-size: 23px;
+}
+
+.part-line {
+  border: 1px solid #ec5242;
+  width: 10%;
+}
+
+.google {
+  color: #6d6d6d;
+  font-size: 30px;
+}
+
+.coinbase {
+  color: #777;
+  font-size: 30px;
+}
+
+.part-logo {
+  margin-top: 40px;
+}
+
+.part-logo img {
+  max-width: 90px;
+}
+
+.part-logo2 {
+  margin-top: 20px;
+}
+
+.part-logo2 img {
+  max-width: 90px;
+}
+
+.footer {
+  margin-top: 40px;
+}
+
+.footer-logo {
+  width: 100px;
+}
+
+.footer-cont {
+  padding: 30px 20px;
+}
+
+.footer-right {
+  margin-top: 10%;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .desk-footer {
+    background-color: #272a31;
+    margin-top: 100px;
+    color: white;
+    padding: 50px 50px 50px 200px;
+  }
+
+  .footer-right {
+    margin-top: auto;
+    margin-bottom: 7px;
+    font-size: 15px;
+  }
+
+  .footer-info {
+    font-size: 15px;
+    margin-top: 0;
+  }
+
+  .footer-logo {
+    width: auto;
+  }
+
+  .footer-cont {
+    padding: 0;
+  }
+}

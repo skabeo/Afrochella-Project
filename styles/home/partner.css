@@ -1,0 +1,36 @@
+.partner-sec {
+  background-color: #272a31;
+  margin-top: 120px;
+}
+
+.part-holder {
+  padding: 40px 0;
+}
+
+.part-text {
+  color: #828282;
+  font-size: 23px;
+}
+
+.part-line {
+  border: 1px solid #ec5242;
+  width: 3%;
+}
+
+.google {
+  color: #6d6d6d;
+  font-size: 30px;
+}
+
+.coinbase {
+  color: #777;
+  font-size: 30px;
+}
+
+.part-logo {
+  margin-top: 40px;
+}
+
+.part-logo img {
+  width: 150px;
+}

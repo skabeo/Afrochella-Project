@@ -1,0 +1,66 @@
+.speaker-pic {
+  width: 110px;
+  height: 110px;
+}
+
+.speaker-des {
+  color: #ec5242;
+  font-style: italic;
+  font-size: 11px;
+}
+
+.speaker-achievement {
+  font-size: 10px;
+}
+
+.speak-line {
+  border-bottom: 1.5px solid #9297a0;
+  width: 10%;
+}
+
+.more-speaker {
+  background-color: #fff;
+  border: 1px solid #9297a0;
+  font-size: 12px;
+  width: 100%;
+}
+
+.fa-angle-down {
+  border: none;
+  color: #ec5242;
+}
+
+.more-icon {
+  height: 20px;
+  width: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .feat-text {
+    font-size: 23px;
+  }
+
+  .speaker {
+    font-weight: 900;
+    font-size: 15px;
+  }
+
+  .speaker-des {
+    font-size: 14px;
+  }
+
+  .speak-line {
+    width: 4%;
+  }
+
+  .speaker-achievement {
+    font-size: 14px;
+  }
+
+  #data-display {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 20px;
+    column-gap: 30px;
+  }
+}

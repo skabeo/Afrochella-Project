@@ -1,0 +1,85 @@
+.user-display {
+  background-color: #53564c;
+}
+
+.user-ul {
+  margin: 0;
+}
+
+.user-ul li {
+  font-size: 13px;
+}
+
+.navbar {
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.nav-link {
+  transition: color 0.25s;
+}
+
+.nav-link:hover {
+  color: #ec5242;
+}
+
+.cap-logo {
+  width: 100px;
+}
+
+.cc {
+  margin-left: 20px;
+  border: 4px solid #ec5242;
+}
+
+.right-arr {
+  width: 13px;
+}
+
+.home-icon {
+  width: 19px;
+}
+
+.home-nav,
+.about-nav {
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.home-nav:hover {
+  color: #ec5242;
+  transition: all 0.25s;
+}
+
+.about-nav:hover {
+  color: #ec5242;
+}
+
+.mobile-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  padding-top: 20px;
+  background-color: #e6e9ef;
+}
+
+.nav-about-mob,
+.nav-about {
+  opacity: 0.5;
+}
+
+.show {
+  display: none;
+}
+
+.close-btn {
+  width: 33.33px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

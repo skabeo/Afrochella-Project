@@ -1,0 +1,17 @@
+.footer {
+  margin-top: 50px;
+}
+
+.footer-des-container {
+  margin-left: 50px;
+  max-width: 700px;
+}
+
+.footer-right {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.footer-info {
+  line-height: 20px;
+}
