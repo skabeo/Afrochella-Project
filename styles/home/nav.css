@@ -1,0 +1,74 @@
+.welcome-page {
+  padding-top: 25px;
+  padding-bottom: 60px;
+}
+
+.user-display {
+  background-color: #53564c;
+}
+
+.user-ul {
+  margin: 0;
+}
+
+.user-ul li {
+  font-size: 13px;
+}
+
+.navbar {
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.cap-logo {
+  width: 100px;
+}
+
+.nav-link {
+  transition: color 0.25s;
+}
+
+.nav-link:hover {
+  color: #ec5242;
+}
+
+.cc {
+  margin-left: 20px;
+  border: 4px solid #ec5242;
+}
+
+.mobile-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100vh;
+  z-index: 9999;
+  padding-top: 20px;
+  background-color: #e6e9ef;
+}
+
+.nav-home {
+  opacity: 0.5;
+}
+
+.show {
+  display: none;
+}
+
+.close-btn {
+  width: 33.33px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+@media screen and (min-width: 768px) {
+  .desk-hero-page {
+    background-color: #e6e9ef;
+    padding-top: 40px;
+    padding-bottom: 100px;
+  }
+}

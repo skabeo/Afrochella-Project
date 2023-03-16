@@ -1,0 +1,69 @@
+.text-org {
+  color: #ec5242;
+}
+
+.intro-text {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.text-gradient {
+  background:
+    radial-gradient(
+      64.18% 64.18% at 71.16% 35.69%,
+      #bd1a07 0.89%,
+      #bd1a07 17.23%,
+      #bd1a07 42.04%,
+      #bd1a07 55.12%,
+      #272a31 71.54%,
+      #bd1a07 100%
+    );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.description-container {
+  margin-top: 30px;
+  border: 2px solid white;
+  box-sizing: border-box;
+  padding: 15px;
+  max-width: 550px;
+}
+
+.description {
+  font-size: 12px;
+}
+
+.date {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.venue {
+  font-size: 14.5px;
+}
+
+@media screen and (min-width: 768px) {
+  .intro-text {
+    font-weight: 900;
+    font-size: 80px;
+  }
+
+  .date {
+    font-weight: 900;
+    font-size: 40px;
+  }
+
+  .venue {
+    font-size: 20px;
+  }
+
+  .description-container {
+    max-width: 700px;
+  }
+
+  .description {
+    font-size: 13px;
+  }
+}

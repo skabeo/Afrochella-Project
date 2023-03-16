@@ -1,0 +1,185 @@
+.intro-page {
+  margin-top: 40px;
+  position: relative;
+}
+
+.intro-text {
+  color: #ec5242;
+}
+
+.intro-main {
+  font-size: 30px;
+  font-weight: 900;
+  color: #ec5242;
+}
+
+.description-container {
+  margin-top: 40px;
+  border: 1px solid rgb(192, 192, 192);
+  background-color: #fff;
+  padding: 20px 10px;
+}
+
+.description {
+  font-size: 15px;
+}
+
+.intro-contact {
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 20px;
+}
+
+.intro-email {
+  font-size: 14px;
+}
+
+.drum,
+.drum2,
+.mask,
+.listening {
+  position: absolute;
+}
+
+.mask {
+  bottom: 0;
+  left: -13%;
+  width: 70px;
+}
+
+.listening {
+  top: -10%;
+  left: 18%;
+  width: 30px;
+}
+
+.drum {
+  top: 36%;
+  right: -6%;
+  width: 50px;
+}
+
+.drum2 {
+  top: 23%;
+  left: -9%;
+  width: 50px;
+}
+
+@media (min-width: 580px) and (max-width: 767px) {
+  .listening {
+    left: 15%;
+    width: 40px;
+  }
+
+  .drum {
+    top: 37%;
+    right: -4%;
+    width: 60px;
+  }
+
+  .drum2 {
+    left: -5.5%;
+    width: 50px;
+  }
+
+  .mask {
+    left: -8%;
+    bottom: -4%;
+    width: 70px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1699px) {
+  .intro-main {
+    font-weight: 900;
+    font-size: 50px;
+    color: #ec5242;
+  }
+
+  .info-line {
+    border: 1px solid #ec5242;
+    width: 3%;
+    margin-top: 10px;
+  }
+
+  .description-container {
+    max-width: 900px;
+    padding: 25px 50px;
+    background-color: #fff;
+  }
+
+  .description {
+    font-size: 15px;
+    line-height: 30px;
+  }
+
+  .intro-contact {
+    margin-top: 50px;
+    font-size: 15px;
+  }
+
+  .intro-email {
+    font-size: 15px;
+    margin-bottom: 60px;
+    cursor: pointer;
+  }
+
+  .email-arrow {
+    height: 18px;
+    width: 15px;
+    margin-left: 4px;
+  }
+
+  .main-sub {
+    margin-top: -25px;
+  }
+
+  .listening {
+    width: 40px;
+  }
+
+  .drum {
+    top: 20%;
+    right: -2%;
+    width: 80px;
+  }
+
+  .drum2 {
+    top: 7%;
+    left: -3%;
+    width: 70px;
+  }
+
+  .mask {
+    left: -5.5%;
+    bottom: -10%;
+    width: 120px;
+  }
+}
+
+@media screen and (min-width: 1700px) {
+  .listening {
+    width: 60px;
+  }
+
+  .drum2 {
+    top: 20%;
+    left: -3%;
+    width: 70px;
+  }
+
+  .description-container {
+    max-width: 1000px;
+  }
+
+  .drum {
+    top: 25%;
+    right: -1.5%;
+    width: 80px;
+  }
+
+  .mask {
+    left: -4%;
+    width: 100px;
+  }
+}

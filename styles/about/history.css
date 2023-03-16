@@ -1,0 +1,47 @@
+.hi-title {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.hi-line {
+  border: 1px solid #ec5242;
+  width: 10%;
+}
+
+.hi-event {
+  font-size: 12px;
+}
+
+.past-img {
+  height: 50%;
+}
+
+.past-event-container {
+  margin-top: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .his-line {
+    color: rgb(193, 193, 193);
+  }
+
+  .hi-title {
+    font-size: 23px;
+  }
+
+  .hi-line {
+    width: 3%;
+  }
+
+  .hi-event {
+    font-size: 15px;
+  }
+
+  .past-event-container {
+    margin-top: 50px;
+  }
+
+  .past-img {
+    height: auto;
+  }
+}

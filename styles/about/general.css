@@ -1,0 +1,52 @@
+body {
+  background-color: #fffcfc;
+  color: #272a31;
+  font-family: Lato, sans-serif;
+}
+
+.top-color {
+  background-color: #f2f3f6;
+  padding: 25px 12px 35px 12px;
+}
+
+*,
+*::before,
+*::after,
+p {
+  margin: 0;
+}
+
+.hamburger {
+  height: 20.83px;
+  width: 33.33px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+  margin-left: 10px;
+}
+
+.hamburger span {
+  height: 5px;
+  width: 100%;
+  display: block;
+  background-color: #272a31;
+}
+
+.hamburger span:first-child {
+  transform: translateY(-50%);
+}
+
+.hamburger span:last-child {
+  transform: translateY(50%);
+}
+
+.home-page {
+  margin-top: 60px;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    padding: 0;
+  }
+}
